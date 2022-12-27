@@ -13,3 +13,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+ 
+.line {
+/* background-image: url(../Images/headerdetails.png); */
+position: absolute;
+
+
+}
