@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 import boy from '../images/boy.png';
-import line from '../images/line.png';
 
 export const HeroWrap = styled.div`
   width: 100%;
